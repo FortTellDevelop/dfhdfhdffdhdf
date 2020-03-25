@@ -1,0 +1,20 @@
+{
+  "name": "fortnite-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "node-wick": "^3.0.3",
+    "nodemon": "^2.0.2",
+    "wick-downloader": "^0.2.4"
+  }
+}
